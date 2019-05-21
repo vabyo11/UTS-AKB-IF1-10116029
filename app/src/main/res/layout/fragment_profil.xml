@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/graylight"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="405dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="325dp"
+                android:background="@drawable/gradient"
+                android:orientation="vertical">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/circleImageView2"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="21dp"
+                    android:src="@drawable/fotodiri" />
+
+                <TextView
+                    android:layout_marginTop="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Veby Vabyo"
+                    android:textColor="#FFF"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="10116029"
+                    android:textColor="@color/graylight"
+                    android:textStyle="bold" />
+
+                <TextView
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Teknik Informatika / IF-1"
+                android:textColor="#FFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+
+            </LinearLayout>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="275dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+                    <LinearLayout
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Coding"
+                            android:textSize="20sp"
+                            />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="80"
+                            android:textStyle="bold"
+                            android:textSize="20sp"
+                            android:paddingTop="10dp"
+                            android:textColor="@color/startblue"
+                            />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Design"
+                            android:textSize="20sp"
+                            />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="85"
+                            android:textStyle="bold"
+                            android:textSize="20sp"
+                            android:paddingTop="10dp"
+                            android:textColor="@color/startblue"
+                            />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Game"
+                            android:textSize="20sp"
+                            />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="100"
+                            android:textStyle="bold"
+                            android:textSize="20sp"
+                            android:paddingTop="10dp"
+                            android:textColor="@color/startblue"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nama Saya Veby Vabyo, biasa dipanggil Vabyo. Saya lahir di Pangkalpinang, Bangka Belitung pada 11 Mei 1999. Agama saya Islam dan memiliki golongan darah A. Tinggi badan saya sekitar 170 cm dengan berat sekitar 60 kg. Saya memiliki rambut hitam dan warna kesukaan saya adalah biru."
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mengenai kepribadian, saya orang yang sedikit pemalu, namun apabila telah akrab kepada teman, saya tidak pemalu lagi dan lebih terbuka. Saya orang yang mau bekerja keras sampai apa yang saya kerjakan benar-benar maksimal. Hobi saya sendiri senang menonton film, bermain video game, dan membaca buku. Saya juga suka mempelajari setiap hal yang baru, sehingga menjadikan pikiran saya lebih terbuka lagi."
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

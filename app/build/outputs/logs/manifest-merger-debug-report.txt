@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\77cdaae28e48a65811f94f8d9f0eb807\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2a6e0a70601144a5027197bcfd81f314\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\33ce6325fc551661feb386bbe50215dd\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\972d0b816ba758476ff48a884dbb16e1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\0c31c2316751455cb86d9ff56af7de5f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\6f28cdea3c4bab8cac26869d2dd805cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\de34823d4704bbd3f9347c10b239b1cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\fd31ee836d20ef33f0c299e08abc0d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\92a347450e6670a9b47560cbea768611\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\946fd94038f8bff2b55763b6eaa1a070\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\53ff443c1b0e0fa9d4294a14bd55e72d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bdbfe0b5b64ee7a160c04c2d10f362d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8bb0fbfb4ed6e3c24e1f39491d7cbf59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\48fd62f217ec4a5a8d3be21456f981de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2f592a21b63305fde5dd6ca6958798ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b120f3d042a3c99118659cd34dc59937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\c9292b51304235a4b822e6da4a714c9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\1e110a7f34ffc6d7e36ca2e32abab05c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\d45848bdd1cd6f5991dc35519c0ce955\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\ad7fa22ec440f54e19720314480b7423\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8144291acc0d8e202f0369d38b79cd2a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bcc0aaa309640933709bf5ddfeb9871f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2f7f967d999636323ac7738e42c5a660\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\0aabb76f428fae09733c2d70cdfbf1ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\87c3ecd73c34c061c0dae09bb2a08a60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\9b5bbb9cdacc96a6798952834c387ebc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\cba1f4aa409ec70dedb71afcd89d4d14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b3f14e47bb7c8589a3fe256a65613f22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\ce741a18ea9561518cdabf80ff46b64d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\39459564845af2d830552e80ff627c04\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\9574aa8a5d19728f13c47d1a1a342736\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b7e0b7f94e4f0b0731c391438b3241e8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:11:22-67
+application
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:13:5-39:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\77cdaae28e48a65811f94f8d9f0eb807\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\77cdaae28e48a65811f94f8d9f0eb807\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\972d0b816ba758476ff48a884dbb16e1\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\972d0b816ba758476ff48a884dbb16e1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8144291acc0d8e202f0369d38b79cd2a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8144291acc0d8e202f0369d38b79cd2a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bcc0aaa309640933709bf5ddfeb9871f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bcc0aaa309640933709bf5ddfeb9871f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8144291acc0d8e202f0369d38b79cd2a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:18:9-40
+activity#droidmentor.bnv_with_viewpager.SplashActivity
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:theme
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:19:50-84
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:19:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:22:27-74
+activity#droidmentor.bnv_with_viewpager.MainActivity
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:25:9-29:57
+	android:label
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:27:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:29:13-54
+	android:theme
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:26:13-71
+activity#droidmentor.bnv_with_viewpager.ContactCreationActivity
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:30:9-32:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:31:13-82
+activity#droidmentor.bnv_with_viewpager.ContactEditionActivity
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:33:9-35:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:34:13-81
+activity#droidmentor.bnv_with_viewpager.ContactSmsActivity
+ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:36:9-38:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml:37:13-77
+uses-sdk
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\77cdaae28e48a65811f94f8d9f0eb807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\77cdaae28e48a65811f94f8d9f0eb807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2a6e0a70601144a5027197bcfd81f314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2a6e0a70601144a5027197bcfd81f314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\33ce6325fc551661feb386bbe50215dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\33ce6325fc551661feb386bbe50215dd\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\972d0b816ba758476ff48a884dbb16e1\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\972d0b816ba758476ff48a884dbb16e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\0c31c2316751455cb86d9ff56af7de5f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\0c31c2316751455cb86d9ff56af7de5f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\6f28cdea3c4bab8cac26869d2dd805cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\6f28cdea3c4bab8cac26869d2dd805cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\de34823d4704bbd3f9347c10b239b1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\de34823d4704bbd3f9347c10b239b1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\fd31ee836d20ef33f0c299e08abc0d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\fd31ee836d20ef33f0c299e08abc0d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\92a347450e6670a9b47560cbea768611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\92a347450e6670a9b47560cbea768611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\946fd94038f8bff2b55763b6eaa1a070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\946fd94038f8bff2b55763b6eaa1a070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\53ff443c1b0e0fa9d4294a14bd55e72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\53ff443c1b0e0fa9d4294a14bd55e72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bdbfe0b5b64ee7a160c04c2d10f362d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bdbfe0b5b64ee7a160c04c2d10f362d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8bb0fbfb4ed6e3c24e1f39491d7cbf59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8bb0fbfb4ed6e3c24e1f39491d7cbf59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\48fd62f217ec4a5a8d3be21456f981de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\48fd62f217ec4a5a8d3be21456f981de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2f592a21b63305fde5dd6ca6958798ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2f592a21b63305fde5dd6ca6958798ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b120f3d042a3c99118659cd34dc59937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b120f3d042a3c99118659cd34dc59937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\c9292b51304235a4b822e6da4a714c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\c9292b51304235a4b822e6da4a714c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\1e110a7f34ffc6d7e36ca2e32abab05c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\1e110a7f34ffc6d7e36ca2e32abab05c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\d45848bdd1cd6f5991dc35519c0ce955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\d45848bdd1cd6f5991dc35519c0ce955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\ad7fa22ec440f54e19720314480b7423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\ad7fa22ec440f54e19720314480b7423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8144291acc0d8e202f0369d38b79cd2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\8144291acc0d8e202f0369d38b79cd2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bcc0aaa309640933709bf5ddfeb9871f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\bcc0aaa309640933709bf5ddfeb9871f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2f7f967d999636323ac7738e42c5a660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\2f7f967d999636323ac7738e42c5a660\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\0aabb76f428fae09733c2d70cdfbf1ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\0aabb76f428fae09733c2d70cdfbf1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\87c3ecd73c34c061c0dae09bb2a08a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\87c3ecd73c34c061c0dae09bb2a08a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\9b5bbb9cdacc96a6798952834c387ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\9b5bbb9cdacc96a6798952834c387ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\cba1f4aa409ec70dedb71afcd89d4d14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\cba1f4aa409ec70dedb71afcd89d4d14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b3f14e47bb7c8589a3fe256a65613f22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b3f14e47bb7c8589a3fe256a65613f22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\ce741a18ea9561518cdabf80ff46b64d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\ce741a18ea9561518cdabf80ff46b64d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\39459564845af2d830552e80ff627c04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\39459564845af2d830552e80ff627c04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\9574aa8a5d19728f13c47d1a1a342736\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\9574aa8a5d19728f13c47d1a1a342736\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b7e0b7f94e4f0b0731c391438b3241e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vabyo\.gradle\caches\transforms-2\files-2.1\b7e0b7f94e4f0b0731c391438b3241e8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vabyo\Documents\Kuliah\Semester6\Aplikasi Komputasi Bergerak\UTS-AKB-IF1-10116029\app\src\main\AndroidManifest.xml
