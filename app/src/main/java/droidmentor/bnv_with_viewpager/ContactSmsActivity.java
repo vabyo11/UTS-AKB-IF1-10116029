@@ -27,6 +27,13 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
+/**
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
+ */
+
 public class ContactSmsActivity extends AppCompatActivity {
 
     private static final String SMS_SENT = "SMS_SENT";

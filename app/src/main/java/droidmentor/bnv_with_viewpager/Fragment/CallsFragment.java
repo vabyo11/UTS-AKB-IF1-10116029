@@ -11,8 +11,12 @@ import droidmentor.bnv_with_viewpager.R;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
  */
+
 public class CallsFragment extends Fragment {
 
 

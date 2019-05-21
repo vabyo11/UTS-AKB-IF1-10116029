@@ -9,7 +9,10 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.NotificationCompat;
 
 /**
- * Created by hivian on 9/1/17.
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
  */
 
 public class SmsNotificationService extends IntentService {

@@ -19,6 +19,12 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+/**
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
+ */
 
 public class ContactEditionActivity extends AppCompatActivity {
 

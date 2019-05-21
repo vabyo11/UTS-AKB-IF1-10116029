@@ -8,7 +8,10 @@ import android.view.ViewGroup;
 import java.util.List;
 
 /**
- * Created by hivian on 10/11/17.
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
  */
 
 public class SmsListRecycler extends RecyclerView.Adapter<SmsViewHolder> {

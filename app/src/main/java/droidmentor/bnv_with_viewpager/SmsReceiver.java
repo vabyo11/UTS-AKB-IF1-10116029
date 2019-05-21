@@ -11,7 +11,10 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * Created by hivian on 2/1/17.
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
  */
 
 public class SmsReceiver extends BroadcastReceiver {

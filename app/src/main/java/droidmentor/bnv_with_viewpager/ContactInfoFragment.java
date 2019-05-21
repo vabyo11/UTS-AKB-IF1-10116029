@@ -36,7 +36,10 @@ import com.oguzdev.circularfloatingactionmenu.library.SubActionButton;
 import java.util.List;
 
 /**
- * Created by hivian on 9/4/17.
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
  */
 
 public class ContactInfoFragment extends Fragment implements View.OnClickListener, View.OnTouchListener {

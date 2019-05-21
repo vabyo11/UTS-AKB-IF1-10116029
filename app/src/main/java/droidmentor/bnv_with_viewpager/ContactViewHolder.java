@@ -6,7 +6,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by hivian on 10/10/17.
+ * TANGGAL PENGERJAAN: 20 MEI 2019
+ * NIM: 10116029
+ * NAMA: VEBY VABYO
+ * KELAS: IF-1
  */
 
 
